@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\xlr84\documents\visual studio projects\multipleclientserver\multipleclientserver\main.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\xlr84\documents\visual studio projects\multipleclientserver\multipleclientserver\main.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  MultipleClientServer.vcxproj -> C:\Users\xlr84\Documents\Visual Studio Projects\MultipleClientServer\Debug\MultipleClientServer.exe
