@@ -1,5 +1,5 @@
 # Multi-Client-TCP-Communication
-*Final Project for ECGR 3123:Communications and Networking
+Final Project for ECGR 3123:Communications and Networking
 
 *Written by Wallace Obey and Kevin Granados
 
