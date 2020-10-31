@@ -1,4 +1,6 @@
 # Multi-Client-TCP-Communication
+Final Project for ECGR 3123:Communications and Networking
+
 C++ project for clients to connect to the same server and receive and send messages at the same time.
 
 *The server code is working fine for accepting new clients and sending and receiving data.
